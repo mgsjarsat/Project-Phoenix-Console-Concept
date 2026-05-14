@@ -83,9 +83,9 @@ To prevent hardware scalpers and distributed AI startups from buying up consumer
 To capture and retain the PC enthusiast demographic, keyboard and mouse (KBM) inputs are treated as primary, first-class hardware citizens rather than secondary emulated peripherals.
 
 Hardwired Ultra-Polling Matrix & Native Ethernet;
-The baseline chassis features dual front-facing USB 4.0 Type-C ports (40Gbps) and dual rear-facing USB 3.2 Gen 2 Type-A ports hardwired directly to the core PCIe host controller, operating at an unthrottled 8000Hz hardware polling rate to eliminate input lag.Hardwired 
+The baseline chassis features dual front-facing USB 4.0 Type-C ports (40Gbps) and dual rear-facing USB 3.2 Gen 2 Type-A ports hardwired directly to the core PCIe host controller, operating at an unthrottled 8000Hz hardware polling rate to eliminate input lag.
 
-Gigabit Ethernet: The baseline core unit includes a native RJ45 2.5Gbps Ethernet port wired directly to the core network stack. This provides the unthrottled, packet-loss-free physical internet pipe required for competitive multi-room streaming nodes, frame-perfect online multiplayer games, and rapid multi-gigabyte server updates.
+Hardwired Gigabit Ethernet: The baseline core unit includes a native RJ45 2.5Gbps Ethernet port wired directly to the core network stack. This provides the unthrottled, packet-loss-free physical internet pipe required for competitive multi-room streaming nodes, frame-perfect online multiplayer games, and rapid multi-gigabyte server updates.
 
 Low-Level Driver Abstraction & Developer Mandate
 
