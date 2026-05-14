@@ -19,7 +19,9 @@ The Baseline Entry Tier ($450 Target Launch Price): The base console hub contain
 
 Vertical Vortex Cooling Array: To prevent thermal degradation and eliminate internal user maintenance, the core chassis features an integrated, high-velocity vertical chimney cooling system;
 
-Intake: A primary high-speed intake fan is positioned at the lower rear of the chassis, drawing ambient air directly into the base.The Heat Sink: Air is forced upward across a custom, low-cost aluminum heat sink mounted directly beneath the core CPU/APU die.
+Intake: A primary high-speed intake fan is positioned at the lower rear of the chassis, drawing ambient air directly into the base.
+
+Heat Sink: Air is forced upward across a custom, low-cost aluminum heat sink mounted directly beneath the core CPU/APU die.
 
 Exhaust: Dual smaller, high-speed exhaust fans are mounted at the top left and top right corners of the unit. These fans rapidly pull hot air vertically upward and blast it out of the chassis, completely preventing stagnant heat pockets from swamping the core components.
 
