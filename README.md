@@ -1,10 +1,13 @@
 # Project-Phoenix-Console-Concept
 
 CONCEPT PROPOSAL: 
+
 PROJECT PHOENIX 
 
-To: Alphabet Inc. Executive Leadership (Platforms & Devices / Google ATAP)
-Status: Open-Source Public Concept 
+To: 
+Alphabet Inc. Executive Leadership (Platforms & Devices / Google ATAP)
+Status: 
+Open-Source Public Concept 
 Strategy
 
 Objective: Resurrect Google’s Gaming Ecosystem via the World’s First Open-Architecture Modular Console Standard.
