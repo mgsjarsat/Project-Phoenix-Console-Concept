@@ -31,7 +31,7 @@ Armored "Compute Pucks": Performance upgrades (GPUs, extended memory) are encase
 
 Dual-Path Storage Framework;
 
-Custom Cartridge Slot: Uses custom M.2 NVMe specifications encased in a polymer shell for instant, zero-install physical media execution. Highly appealing to casual out-of-the-box gamers or users with restrictive data caps.The Standard M.2
+Custom Cartridge Slot: Uses custom M.2 NVMe specifications encased in a polymer shell for instant, zero-install physical media execution. Highly appealing to casual out-of-the-box gamers or users with restrictive data caps.
 
 NVME Mass Storage Slot: Accessible via a toolless door, this standard M.2 2280 slot allows enthusiasts to install cheap, mass-market PCIe solid-state drives (up to 8TB+). This attracts developers of massive, evolving live-service projects like Blizzard and Square Enix, enabling continuous expansion patches and immense digital libraries without internal drive capacity bottlenecks.
 
