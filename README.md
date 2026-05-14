@@ -51,7 +51,10 @@ To operate flawlessly on consumer televisions and resist the threat of data-cent
 
 On-Die Unified Paging Pool (UPP)
 
-The primary core processor features 32GB of ultra-high-speed memory integrated directly onto the chip substrate via a massive 512-bit bus.The Benefit: Core operating system processes, engine microcode, and real-time open-world game assets are pinned directly to this on-chip pool.
+The primary core processor features 32GB of ultra-high-speed memory integrated directly onto the chip substrate via a massive 512-bit bus.
+
+The Benefit: Core operating system processes, engine microcode, and real-time open-world game assets are pinned directly to this on-chip pool.
+
 The Result: This completely eliminates the micro-stutter (hitching) common when streaming assets across traditional modular connections, ensuring a perfectly smooth display on standard consumer televisions regardless of the external upgrade modules attached.
 
 To prevent hardware scalpers and distributed AI startups from buying up consumer gaming inventory, the core firmware features hardcoded instruction filters.If data payloads contain matrix-multiplication kernels (GEMM) or tensor-training strings typical of LLM development, the hardware instantly throttles compute speeds to 1%. The modules remain highly affordable for gamers, but entirely economically unviable for AI server farms.
@@ -61,7 +64,10 @@ To capture and retain the PC enthusiast demographic, keyboard and mouse (KBM) in
 Hardwired Ultra-Polling Matrix & Native Ethernet;
 The baseline chassis features dual front-facing USB 4.0 Type-C ports (40Gbps) and dual rear-facing USB 3.2 Gen 2 Type-A ports hardwired directly to the core PCIe host controller, operating at an unthrottled 8000Hz hardware polling rate to eliminate input lag.Hardwired 
 
-Gigabit Ethernet: The baseline core unit includes a native RJ45 2.5Gbps Ethernet port wired directly to the core network stack. This provides the unthrottled, packet-loss-free physical internet pipe required for competitive multi-room streaming nodes, frame-perfect online multiplayer games, and rapid multi-gigabyte server updates.4.2 Low-Level Driver Abstraction & Developer MandatePhoenixOS features native, low-level Linux driver stacks that read raw mouse register counts directly from the hardware controller, offering 1:1 precision desktop mapping.To maintain publishing rights on the Google Phoenix Store, game developers must support Simultaneous Polling (fluidly swap between gamepad and KBM without entering a menu) and Dynamic UI Scaling (menus instantly shift to cursor tracking and click-and-drag layouts when mouse movement is detected).
+Gigabit Ethernet: The baseline core unit includes a native RJ45 2.5Gbps Ethernet port wired directly to the core network stack. This provides the unthrottled, packet-loss-free physical internet pipe required for competitive multi-room streaming nodes, frame-perfect online multiplayer games, and rapid multi-gigabyte server updates.
+
+Low-Level Driver Abstraction & Developer Mandate
+PhoenixOS features native, low-level Linux driver stacks that read raw mouse register counts directly from the hardware controller, offering 1:1 precision desktop mapping.To maintain publishing rights on the Google Phoenix Store, game developers must support Simultaneous Polling (fluidly swap between gamepad and KBM without entering a menu) and Dynamic UI Scaling (menus instantly shift to cursor tracking and click-and-drag layouts when mouse movement is detected).
 
 To attract massive MMO and persistent-world publishers, PhoenixOS provides specialized infrastructure to eliminate the historic friction of console patch deployments.
 
