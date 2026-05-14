@@ -36,6 +36,7 @@ Custom Cartridge Slot: Uses custom M.2 NVMe specifications encased in a polymer 
 NVME Mass Storage Slot: Accessible via a toolless door, this standard M.2 2280 slot allows enthusiasts to install cheap, mass-market PCIe solid-state drives (up to 8TB+). This attracts developers of massive, evolving live-service projects like Blizzard and Square Enix, enabling continuous expansion patches and immense digital libraries without internal drive capacity bottlenecks.
 
 Hardware Multiplexing (MUX): Internal hardware switches automatically route processing power. When a licensed third-party GPU puck is inserted, the internal integrated graphics are bypassed natively, routing all visual tasks through the external module’s PCIe 6.0 lanes.
+
 Third-Party OEM Synergy: Google licenses the physical pin connections and driver protocol standards to trusted partners (ASUS, NVIDIA, AMD, Lenovo). Third parties bear the manufacturing risks of premium hardware, while Google dictates the ecosystem.
 
 To keep the mainboard, API, and onboard RAM relevant over a 10-to-15-year ecosystem life cycle, Project Phoenix completely re-engineers how consoles handle mid-generation refreshes.
