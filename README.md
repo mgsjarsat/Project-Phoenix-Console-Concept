@@ -10,7 +10,8 @@ Status:
 Open-Source Public Concept 
 Strategy
 
-Objective: Resurrect Google’s Gaming Ecosystem via the World’s First Open-Architecture Modular Console Standard.
+Objective: 
+Resurrect Google’s Gaming Ecosystem via the World’s First Open-Architecture Modular Console Standard.
 
 Google’s departure from the gaming hardware market left a massive infrastructure void. Meanwhile, competitors are cowering away from true hardware innovation with Project Helix, choosing to lock consumers into traditional, sealed boxes running software emulation layers.
 
