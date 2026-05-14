@@ -9,7 +9,7 @@ Strategy
 
 Objective: Resurrect Google’s Gaming Ecosystem via the World’s First Open-Architecture Modular Console Standard.
 
-Google’s departure from the gaming hardware market left a massive infrastructure void. Meanwhile, competitors are cowering away from true hardware innovation with Project Helix, choosing to lock consumers into traditional, sealed boxes running software emulation layers [News: Mar 11, 2026].
+Google’s departure from the gaming hardware market left a massive infrastructure void. Meanwhile, competitors are cowering away from true hardware innovation with Project Helix, choosing to lock consumers into traditional, sealed boxes running software emulation layers.
 
 Project Phoenix is a public concept that presents Google with a historic, low-risk opportunity to seize control of the living room. By pioneering an open-source, cartridge-style hardware standard, Google can shift the financial burden of premium GPU manufacturing onto third-party OEMs, while positioning itself as the universal software, storefront, and streaming engine of next-generation gaming.
 
