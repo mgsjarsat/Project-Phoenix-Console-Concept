@@ -73,7 +73,7 @@ Interface: A fast, responsive, hardware-accelerated Blade UI framework inspired 
 Architecture: Built on a streamlined Android runtime environment, allowing native integration of the Google Play PC Store alongside translation layers for major PC storefronts like Steam and Epic Games Store.
 
 Professional Layer: 
-To appease the enthusiast and development communities, deep within the system sits a Global Sudo Toggle. Flipping it instantly converts the console into an open, unthrottled desktop Linux sandbox, granting root directory access, custom application compiling, full control over the high-polling USB matrix, and raw disk partition management over the secondary standard M.2 NVMe expansion slot.7. LOCAL 
+To appease the enthusiast and development communities, deep within the system sits a Global Sudo Toggle. Flipping it instantly converts the console into an open, unthrottled desktop Linux sandbox, granting root directory access, custom application compiling, full control over the high-polling USB matrix, and raw disk partition management over the secondary standard M.2 NVMe expansion slot. 
 
 Project Phoenix addresses previous cloud-gaming errors by moving processing requirements out of distant data centers and into the local home network.
 
